@@ -9,3 +9,5 @@ QA Automation test task for Motorsport Network (Python + Selenium WebDriver + Py
 
 ### Run tests:
 run `pytest -v` to run all tests in the project
+
+run `pytest -v -n auto` to run all tests in parallel
