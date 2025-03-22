@@ -1,7 +1,7 @@
 # Test task - Motorsport Network
 QA Automation test task for Motorsport Network (Python + Selenium WebDriver + PyTest)
 
-### Instractions:
+### Instructions:
 1. Install python 3.10 or higher
 2. Clone the repository
 3. Activate virtual environment
